@@ -3,6 +3,8 @@
 
 1. **访问原始仓库页面**：
     - 打开你想要 fork 的 GitHub 仓库页面。
+    - eg:https://github.com/yixiu001/serv00-login
+    - or:https://github.com/bg8ixz/Serv00_Auto_Login
 
 2. **配置 GitHub Secrets**
     - 转到你 fork 的仓库页面。
